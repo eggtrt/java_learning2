@@ -8,6 +8,6 @@ public class Ex08 {
 
         int int4 = -(int1-- * int2--);
 
-        int int5 = 3++; // 이렇게는 사용이 안됨
+//        int int5 = 3++; // 이렇게는 사용이 안됨
     }
 }
